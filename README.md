@@ -13,4 +13,4 @@ The goal of this project is to analyze the sales data of Vrinda Store for the ye
 - Microsoft Excel (Data Cleaning, Pivot Tables, Dashboards).
 
 ## Dashboard Preview:
-![Dashboard Screenshot](اDashBoard.png)
+![Dashboard](DashBoard.png)
